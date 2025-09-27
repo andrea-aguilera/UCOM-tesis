@@ -5,13 +5,17 @@
 Repositorio con el borrador final de la tesis, notebook de Google Colab y la base de datos utilizada.
 
 Autor: Andrea Aguilera · Año: 2025
+
 Programa/Institución: Maestría en Ciencia de Datos - Universidad Comunera del Paraguay
 
 📁 Estructura
 .
 ├─ tesis/               # Borrador final (.docx)
+
 ├─ notebook/            # Notebook de Google Colab (.ipynb)
+
 ├─ data/                # Base de datos utilizada
+
 └─ README.md
 
 🔗 Enlaces
