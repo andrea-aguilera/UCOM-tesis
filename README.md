@@ -10,11 +10,11 @@ Repositorio con el borrador final de la tesis, notebook de Google Colab y la bas
 
 📁**Estructura**
 
-├─ tesis/               # Borrador final (.docx)
+├─ tesis/FINAL-Borrador_Tesis_AAguilera                  # Borrador final (.docx)
 
-├─ notebook/            # Notebook de Google Colab (.ipynb)
+├─ notebook/Tesis-Maestría                               # Notebook de Google Colab (.ipynb)
 
-├─ data/                # Base de datos utilizada
+├─ data/clasificacion_depresion_consultas                # Base de datos utilizada
 
 └─ README.md
 
